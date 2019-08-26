@@ -1,0 +1,68 @@
+{
+    "commentsArray": [
+        {
+            "postId": "1",
+            "postComments": [
+                {
+                    "username": "abdollah",
+                    "comment": "ای ول"
+                },
+                {
+                    "username": "hassan",
+                    "comment": "دمت گرم"
+                },
+                {
+                    "username": "karim",
+                    "comment": "عالی بود"
+                }
+            ]
+        },
+        {
+            "postId": "2",
+            "postComments": [
+                {
+                    "username": "maryam",
+                    "comment": "ای ول"
+                },
+                {
+                    "username": "mojtaba",
+                    "comment": "سلبریتی بی درد"
+                }
+            ]
+        },
+        {
+            "postId": "3",
+            "postComments": [
+                {
+                    "username": "niloofar",
+                    "comment": "عاشقتونم آقای جوان"
+                },
+                {
+                    "username": "hasti",
+                    "comment": "ارایه بهترین مانتوهای مد روز. به پیج ما سربزنید @montorooz"
+                },
+                {
+                    "username": "hassan",
+                    "comment": "خندوانه از کی پخش می شه؟"
+                },
+                {
+                    "username": "baharak.h.r",
+                    "comment": "واقعا کاش می شد مدال مهربون ترین انسان روی زمین رو به شما داد. خوشا به حال دخترتون❤ تو این روزگار وجود انسان هایی مثل شما خیلی ارزشمنده"
+                },
+                {
+                    "username": "malihe.kabe59",
+                    "comment": "خدا قوت خیلی خوبی"
+                }
+            ]
+        },
+        {
+            "postId": "4",
+            "postComments": [
+                {
+                    "username": "rahman23",
+                    "comment": "آقای مطهری، به درد جوونا برسید"
+                }
+            ]
+        }
+    ]
+}

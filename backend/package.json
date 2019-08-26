@@ -1,0 +1,15 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "backend of sudo-insta",
+  "main": "index.js",
+  "author": "Abdollah Esmaeilpour",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon index.js",
+    "debug": "nodemon --inspect-brk=5858 index.js"
+  },
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
