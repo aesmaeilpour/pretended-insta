@@ -1,2 +1,2 @@
-# sudo-insta
+# Pretended insta
 An Instagram like application
